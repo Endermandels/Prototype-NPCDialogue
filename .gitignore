@@ -1,5 +1,6 @@
 # Godot 4+ specific ignores
 .godot/
+
 # Godot-specific ignores
 .import/
 export.cfg
@@ -8,7 +9,6 @@ export_presets.cfg
 # Imported translations (automatically generated from CSV files)
 *.translation
 
-# TODO Break off Dress up and possibly Modular Mobility, to be managed by GodotEnv
 # Ignore all addons since they are managed by GodotEnv:
 addons/*
 
